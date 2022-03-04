@@ -1,7 +1,7 @@
 # Projeto Light Mode/Dark Mode 
 Projeto desenvolvido no basecamp de Javascript, na plataforma DIO, cujo objetivo é a manipulação do DOM para construir uma página simples que tenha modo noturno.
 
-<img width="200" src="assets/img/dark-mode.gif">
+<img width="400" src="assets/img/dark-mode.gif">
 
 ## Ferramentas utilizadas:
 - HTML5
@@ -11,7 +11,7 @@ Projeto desenvolvido no basecamp de Javascript, na plataforma DIO, cujo objetivo
 ## Print do Projeto
 
 ### Light Mode
-<img width="500" src="assets/img/light-mode.png">
+<img width="400" src="assets/img/light-mode.png">
 
 ### Dark Mode
-<img width="500" src="assets/img/dark-mode.png">
+<img width="400" src="assets/img/dark-mode.png">
