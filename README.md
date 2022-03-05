@@ -1,6 +1,8 @@
 # Projeto Light Mode/Dark Mode 
 Projeto desenvolvido no basecamp de Javascript, na plataforma DIO, cujo objetivo é a manipulação do DOM para construir uma página simples que tenha modo noturno.
 
+Clique <a href="https://isabellacpmelo.github.io/dark-mode/">aqui</a> para acessar o projeto.
+
 <a href="https://isabellacpmelo.github.io/dark-mode/"> <img width="400" src="assets/img/dark-mode.gif">
 
 ## Ferramentas utilizadas:
